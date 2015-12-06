@@ -1,0 +1,15 @@
+﻿Build started 27/12/2012 16:07:18.
+     1>Project "D:\code\Ben\GoogleNGram\GoogleNGram\GoogleNGram.vcxproj" on node 2 (build target(s)).
+     1>PrepareForBuild:
+         Creating directory "D:\code\Ben\GoogleNGram\Debug\".
+       InitializeBuildStatus:
+         Creating "Debug\GoogleNGram.unsuccessfulbuild" because "AlwaysCreate" was specified.
+       ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\GoogleNGram.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt GoogleNGram.cpp
+         GoogleNGram.cpp
+     1>d:\code\ben\googlengram\googlengram\googlengram.cpp(24): fatal error C1010: unexpected end of file while looking for precompiled header. Did you forget to add '#include "StdAfx.h"' to your source?
+     1>Done Building Project "D:\code\Ben\GoogleNGram\GoogleNGram\GoogleNGram.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.48
